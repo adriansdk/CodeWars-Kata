@@ -17,3 +17,5 @@ function XO(str) {
   return true
   }
 }
+
+//https://www.codewars.com/kata/exes-and-ohs/train/javascript

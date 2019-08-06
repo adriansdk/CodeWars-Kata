@@ -5,3 +5,5 @@ function accum(s) {
   }
   return letters.join('-')
 }
+
+// https://www.codewars.com/kata/mumbling/train/javascript
