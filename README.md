@@ -1,6 +1,6 @@
 # **Code wars Katas**
 
-### All of the required katas for the Ironhack Prework are in this repository.
+### All of the required codewars katas for the Ironhack Prework are in this repository. Simple problems with simple algorithm solutions.
 
 **Developer**: Adrian Visnieski.
 
